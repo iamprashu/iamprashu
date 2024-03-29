@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/iamprashu/iamprashu/main/iamprashu.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a DevOps & cloud enthusiast. ☁️☁️☁️ :cloud: Eager learner mastering DevOps principles & cloud tech With Masters Of Computer Application (MCA). Building, automating, & innovating. :wink:
+Fuelled by boundless passion for DevOps and cloud technologies ☁️☁️☁️ ☁️, I'm on an exhilarating journey of mastery, armed with a Masters of Computer Application (MCA). <br> I'm not just learning; I'm devouring DevOps principles and cloud tech, crafting the future through relentless innovation and automation. 😉
 
  📚 I’m currently learning :<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> C++ <br> 
