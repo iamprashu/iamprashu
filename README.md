@@ -74,41 +74,32 @@ I am now focusing in my MCA on a broader range, including programming, developme
 My passion to learn, test, and construct practical solutions has been the propelling force of my journey so far.
 
 ---
-<style>
-  ul{
-    display:flex;
-    flex-direction:row;
-  }
-  li{
-    margin : 5px;
-    list-style-type:none;
-  }
-</style>
+
 ### You can find in me in the web 🌍
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/iamprashu?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in" target="_blank">
-      <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" />
+      LinkedIn
     </a>
   </li>
   <li>
     <a href="https://leetcode.com/u/iamprashu1/" target="_blank">
-      <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" style="filter: invert(100%);" />
+      LeetCode
     </a>
   </li>
   <li>
     <a href="https://www.youtube.com/@iamprashu1" target="_blank">
-      <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="filter: invert(100%);" />
+      YouTube
     </a>
   </li>
   <li>
     <a href="https://github.com/iamprashu/" target="_blank">
-      <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="filter: invert(100%);" />
+      GitHub
     </a>
   </li>
   <li>
     <a href="https://hashnode.com/@iamprashu" target="_blank">
-      <img align="left" alt="Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" style="filter: invert(100%);" />
+      Hashnode
     </a>
   </li>
 </ul>
