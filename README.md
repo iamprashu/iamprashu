@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamprashu/iamprashu/main/iamprashu.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/iamprashu/iamprashu/refs/heads/main/img.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 Fuelled by boundless passion for DevOps and cloud technologies ☁️☁️☁️ ☁️, I'm on an exhilarating journey of mastery of Computer Application (MCA). <br> I'm not just learning; I'm devouring DevOps principles and cloud tech, crafting the future through relentless innovation and automation. 😉
