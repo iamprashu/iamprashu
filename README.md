@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashu&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=iamprashu&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 </p>
 
 ---
