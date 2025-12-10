@@ -15,12 +15,12 @@
 
 ## 💼 Professional Summary  
 
-I’m **Prashant**, a passionate **Full-Stack Developer**, **DevOps Enthusiast**, and **Cybersecurity Learner** currently pursuing my **Master of Computer Applications (MCA)**.  
-With a strong foundation in software development and **application security**, I specialize in crafting **secure**, **scalable**, and **automated systems** that merge development efficiency with operational excellence.  
+I’m Prashant, a passionate Web Developer and DevOps Engineer, currently pursuing my Master of Computer Applications (MCA).
+I specialize in building scalable, high-performance web applications and designing automated DevOps workflows that streamline development and deployment.
 
-My expertise spans across **MERN and Next.js ecosystems**, **secure system design**, and **DevOps automation**, focusing on implementing production-grade solutions.  
-I’m driven by curiosity — from designing encrypted communication systems to deploying CI/CD pipelines and cloud-native services.  
-My goal: **to bridge development, security, and operations** — building intelligent, resilient systems that scale effortlessly. 🚀  
+My work focuses on the MERN and Next.js ecosystems, cloud deployment, and CI/CD automation — bringing together clean code, modern web technologies, and operational reliability.
+Driven by curiosity and a love for problem-solving, I enjoy creating production-ready solutions that simplify processes and enhance performance, from containerized applications to cloud-native platforms.
+My goal: to build efficient, resilient, and scalable systems by bridging the world of Web Development and DevOps. 🚀
 
 ---
 
